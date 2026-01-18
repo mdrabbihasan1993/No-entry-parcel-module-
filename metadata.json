@@ -1,0 +1,7 @@
+{
+  "name": "FastCourier Merchant Console",
+  "description": "A high-performance merchant panel for managing 'No Entry' parcels with AI-powered auto-fill capabilities for shipping labels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
